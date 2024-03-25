@@ -1,0 +1,21 @@
+<h2 style="margin-bottom: 50px">{{'iznajmljene knjige'|translate}}</h2>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>{{'naslov'|translate}}</th>
+        <th>{{'ime pisca'|translate}}</th>
+        <th>{{'prezime pisca'|translate}}</th>
+        <th>{{'datum iznajmljivanja'|translate}}</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let x of podaci">
+        <td>{{x.knjiga.naslov}}</td>
+        <td>{{x.knjiga.imePisca}}</td>
+        <td>{{x.knjiga.prezimePisca}}</td>
+        <td>{{getDatum(x.datumIznajmljivanja)}}</td>
+    </tr>
+    </tbody>
+
+</table>

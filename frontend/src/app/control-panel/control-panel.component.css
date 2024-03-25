@@ -1,0 +1,32 @@
+html, body{
+  height: 100%;
+}
+
+.icon-menu {
+  font-size: 30px;
+  padding: 1%;
+  margin-left: 10px;
+}
+
+.fleks {
+  display: flex;
+}
+
+button:hover, .panel:hover{
+  color: #FC997C;
+}
+button{
+  color: black;
+}
+
+.linkovi a{
+  padding: 20px;
+  display: block;
+  color: black;
+  text-decoration: none;
+}
+
+.linkovi a:hover {
+  background-color: #FC997C;
+
+}

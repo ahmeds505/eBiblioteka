@@ -1,0 +1,127 @@
+<div class="margina">
+    <form class="row g-2 mb-3">
+        <a target="_blank" href="https://localhost:44304/Test/pdf">Report</a>
+        <div class="col-md-6 mb-3">
+            <label class="form-label">{{'pretrazivanje'|translate}}: </label>
+            <input type="text" class="form-control" placeholder="{{'pretrazivanje'|translate}}" [(ngModel)]="search" [ngModelOptions]="{standalone: true}">
+        </div>
+        <!--    <div class="col-md-3">
+      <label class="form-label">Sekcija:</label>
+      <select class="form-select" [(ngModel)] = "selectSekcija" (change)="selectChangeSekcija($event)">
+        <option disabled selected>Odaberite sekciju</option>
+        <option [value]="1">Sve</option>
+        <option [value]="2">Trgovina</option>
+        <option [value]="3">Biblioteka</option>
+      </select>
+    </div>
+    <div class="col-md-3">
+      <label class="form-label">Odjeljenje:</label>
+      <select class="form-select"  (change)="selectChangeOdjeljenje($event)">
+        <option>Odaberite odjeljenje</option>
+        <option *ngFor="let x of OdjeljenjeAll" [value]="x.id">{{x.naziv}}</option>
+      </select>
+    </div>-->
+    </form>
+    <app-upload-list></app-upload-list>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>{{'naslov'|translate}}</th>
+                <th>{{'ime pisca'|translate}}</th>
+                <th>{{'prezime pisca'|translate}}</th>
+                <th>{{'kolicina'|translate}}</th>
+                <th>{{'odjeljenje'|translate}}</th>
+                <th>{{'sekcija'|translate}}</th>
+                <th>{{'cijena'|translate}}</th>
+                <th>{{'akcija'|translate}}</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let x of getKnjigeFilterSearch()">
+                <td>{{x.id}}</td>
+                <td>{{x.naslov}}</td>
+                <td>{{x.imePisca}}</td>
+                <td>{{x.prezimePisca}}</td>
+                <td>{{x.kolicina}}</td>
+                <td>{{x.odjeljenje.naziv}}</td>
+                <td>{{x.sekcija|translate}}</td>
+                <td>{{x.cijena}}</td>
+                <td>
+                    <button class="btn btn-primary" data-bs-target="#exampleModal" data-bs-toggle="modal" (click)="odaberiKnjigu(x)">{{'uredi'|translate}}</button>
+                    <button class="btn btn-danger" (click)="izbrisiKnjigu(x)">{{'izbrisi'|translate}}</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<!-- Modal data-bs-target="#exampleModal" data-bs-toggle="modal"-->
+<div *ngIf="knjigeProvjera==true" class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">ID: #{{KnjigeDetalji.id}}</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+
+                <form class="row g-2" #userForm="ngForm">
+                    <div class="col-md-6">
+                        <label class="form-label">{{'naslov'|translate}}:</label>
+                        <input type="text" class="form-control" name="naslov" required #naslov="ngModel" [class.is-invalid]="naslov.invalid && naslov.touched" [(ngModel)]="KnjigeDetalji.naslov">
+                        <small class="text-danger" [class.d-none]="naslov.valid || naslov.untouched">{{'obavezan unos'|translate}}!</small>
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label">{{'ime pisca'|translate}}:</label>
+                        <input type="text" class="form-control" name="ime" required #ime="ngModel" [class.is-invalid]="ime.invalid && ime.touched" [(ngModel)]="KnjigeDetalji.imePisca">
+                        <small class="text-danger" [class.d-none]="ime.valid || ime.untouched">{{'obavezan unos'|translate}}!</small>
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label">{{'prezime pisca'|translate}}:</label>
+                        <input type="text" class="form-control" name="prezime" required #prezime="ngModel" [class.is-invalid]="prezime.invalid && prezime.touched" [(ngModel)]="KnjigeDetalji.prezimePisca">
+                        <small class="text-danger" [class.d-none]="prezime.valid || prezime.untouched">{{'obavezan unos'|translate}}!</small>
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label">{{'izdavac'|translate}}:</label>
+                        <input type="adress" class="form-control" name="grad" [(ngModel)]="KnjigeDetalji.izdavac">
+                    </div>
+                    <div class="col-md-4">
+                        <label for="inputZip" class="form-label">{{'godina izdanja'|translate}}:</label>
+                        <input type="number" class="form-control" name="pbroj" id="inputZip" [(ngModel)]="KnjigeDetalji.godinaIzdavanja">
+                    </div>
+                    <div class="col-md-4">
+                        <label class="form-label">{{'stampa'|translate}}:</label>
+                        <input type="text" class="form-control" required name="stampa" #email="ngModel" [class.is-invalid]="email.invalid && email.touched" [(ngModel)]="KnjigeDetalji.stampa">
+                        <small class="text-danger" [class.d-none]="email.valid || email.untouched">{{'obavezan unos'|translate}}! </small>
+                    </div>
+                    <div class="col-md-4">
+                        <label class="form-label">{{'sekcija'|translate}}:</label>
+                        <select class="form-select" (change)="selectChangeSekcija($event)">
+              <option disabled selected>{{'odaberite sekciju'|translate}}</option>
+              <option [value]="1">{{'trgovina'|translate}}</option>
+              <option [value]="2">{{'biblioteka'|translate}}</option>
+            </select>
+                    </div>
+
+                    <div class="col-md-4">
+                        <label class="form-label">{{'odjeljenje'|translate}}:</label>
+                        <select class="form-select" [(ngModel)]="OdjeljenjeAll.id" (change)="selectChangeOdjeljenjeUpdate($event)">
+              <option *ngFor="let x of OdjeljenjeAll" [value]="x.id">{{x.naziv}}</option>
+            </select>
+                    </div>
+                    <div class="col-md-4">
+                        <label class="form-label">{{'kolicina'|translate}}:</label>
+                        <input type="number" class="form-control" required name="kolicina" #kolicina="ngModel" [class.is-invalid]="kolicina.invalid && kolicina.touched" [(ngModel)]="KnjigeDetalji.kolicina">
+                        <small class="text-danger" [class.d-none]="kolicina.valid || kolicina.untouched">{{'obavezan unos'|translate}}!</small>
+                    </div>
+                </form>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">{{'zatvori'|translate}}</button>
+                <button type="button" class="btn btn-primary" data-bs-dismiss="modal" (click)="Potvrdi()">{{'potvrdi'|translate}}</button>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,60 @@
+<div class="container-sm">
+<div class="d-flex justify-content-center mb-5 mt-5">
+    <h1>{{'registracija'|translate}}</h1>
+</div>
+  <form class="row g-3" #userForm="ngForm" (ngSubmit)="onSubmit()">
+    <div class="col-md-6">
+      <label  class="form-label">{{'ime'|translate}}:</label>
+      <input type="text" class="form-control" name="ime" required #ime="ngModel"
+              [class.is-invalid]="ime.invalid && ime.touched"
+             [(ngModel)]="txtime">
+      <small class="text-danger" [class.d-none]="ime.valid || ime.untouched">{{'niste unijeli ime'|translate}}</small>
+    </div>
+    <div class="col-md-6">
+      <label  class="form-label">{{'prezime'|translate}}:</label>
+      <input type="text" class="form-control" name="prezime" required #prezime="ngModel"
+             [class.is-invalid]="prezime.invalid && prezime.touched"
+             [(ngModel)]="txtprezime">
+      <small class="text-danger" [class.d-none]="prezime.valid || prezime.untouched">{{'niste unijeli prezime'|translate}}</small>
+    </div>
+    <div class="col-md-6">
+      <label class="form-label">{{'adresa'|translate}}:</label>
+      <input type="adress" class="form-control"  name="adresa" [(ngModel)]="txtadresa">
+    </div>
+    <div class="col-md-4">
+      <label  class="form-label">{{'grad'|translate}}:</label>
+      <input type="adress" class="form-control" name="grad" [(ngModel)]="txtgrad">
+    </div>
+    <div class="col-md-2">
+      <label for="inputZip" class="form-label">{{'postanski broj'|translate}}:</label>
+      <input type="text" class="form-control"  name="pbroj" id="inputZip" [(ngModel)]="txtpostanskiBroj">
+    </div>
+    <div class="col-md-6">
+      <label class="form-label">{{'email'|translate}}:</label>
+      <input type="e-mail" class="form-control" required name="email" #email="ngModel"
+             [class.is-invalid]="email.invalid && email.touched"
+             [(ngModel)]="txtemail">
+      <small class="text-danger" [class.d-none]="email.valid || email.untouched">{{'niste unijeli email'|translate}}</small>
+    </div>
+    <div class="col-md-3">
+      <label class="form-label">{{'lozinka'|translate}}:</label>
+      <input type="password" class="form-control" required name="password" #password="ngModel"
+             [class.is-invalid]="password.invalid && password.touched"
+             [(ngModel)]="txtpassword1">
+      <small class="text-danger" [class.d-none]="password.valid || password.untouched">{{'niste unijeli lozinku'|translate}}</small>
+    </div>
+    <div class="col-md-3">
+      <label class="form-label">{{'ponovo unesite lozinku'|translate}}:</label>
+      <input type="password" class="form-control" required name="password2" #password2="ngModel"
+             [class.is-invalid]="password2.invalid && password2.touched"
+             [(ngModel)]="txtpassword2">
+      <small *ngIf="pwProvjera()==false" class="link-danger">{{'lozinke nisu iste'|translate}}</small>
+    </div>
+    <div class="col-12">
+      <button type="submit" (click)="Potvrdi()"
+              [class.disabled]="ime.invalid || prezime.invalid|| email.invalid || password.invalid || password2.invalid || (pwProvjera()==false)"
+              class="btn btn-primary">{{'potvrdi'|translate}}</button>
+    </div>
+  </form>
+</div>
+

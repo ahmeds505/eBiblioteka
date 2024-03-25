@@ -1,0 +1,11 @@
+<div class = "panel bg-dark" *ngIf="showPanel==true">
+<div class="content">
+<p>{{notification?.title}}</p>
+<p>{{notification?.body}}</p>
+
+
+</div>
+  <button type="button bg-white"  class="btn-close btn-close-white" (click)="dismissNotification()"></button>
+</div>
+
+

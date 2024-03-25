@@ -1,0 +1,66 @@
+
+<div *ngIf="urediUposlenik.prikazi == true" class="modal fade" id="exampleModal2" tabindex="-1"
+     aria-labelledby="exampleModalLabel2" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <!-- <h5 class="modal-title" id="exampleModalLabel">Uređivanje informacija </h5> -->
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="row g-2">
+          <div class="col-md-6">
+            <label  class="form-label">{{'ime'|translate}}:</label>
+            <input type="text" class="form-control" name="ime" required [(ngModel)]="urediUposlenik.ime">
+          </div>
+          <div class="col-md-6">
+            <label  class="form-label">{{'prezime'|translate}}:</label>
+            <input type="text" class="form-control" name="prezime" required [(ngModel)]="urediUposlenik.prezime">
+          </div>
+          <div class="col-md-6">
+            <label  class="form-label">{{'email'|translate}}:</label>
+            <input type="email" class="form-control" name="email" [(ngModel)]="urediUposlenik.email">
+          </div>
+          <div class="col-md-6">
+            <label  class="form-label">{{'adresa'|translate}}:</label>
+            <input type="text" class="form-control" name="adresa" [(ngModel)]="urediUposlenik.adresa">
+          </div>
+          <div class="col-md-6">
+            <label  class="form-label">{{'grad'|translate}}:</label>
+            <input type="text" class="form-control" name="grad" [(ngModel)]="urediUposlenik.grad">
+          </div>
+          <div class="col-md-6">
+            <label  class="form-label">{{'postanski broj'|translate}}:</label>
+            <input type="number" class="form-control" name="pbroj" [(ngModel)]="urediUposlenik.postanskiBroj">
+          </div>
+          <div class="col-md-6 mt-2">
+            <label  class="form-label">{{'odjeljenje'|translate}}:</label>
+            <select class="form-select" (change)="selectChangeOdjeljenje($event)">
+              <option>{{'odaberite odjeljenje'|translate}}</option>
+              <option *ngFor="let x of odjeljenjaPodaci" [value]="x.id"
+                [selected]="x.id == urediUposlenik.odjeljenje.id"
+                      [(ngModel)]="urediUposlenik.odjeljenjeID">{{x.naziv}}</option>
+            </select>
+          </div>
+          <div class="col-md-6 mt-2">
+            <label  class="form-label">{{'radno mjesto'|translate}}:</label>
+            <select class="form-select" (change)="selectChangePozicija($event)" >
+              <option>{{'odaberite radno mjesto'|translate}}</option>
+              <option *ngFor="let x of radnoMjestoPodaci" [value]="x.id"
+                      [selected]="x.id == urediUposlenik.pozicija.id"
+                      [(ngModel)]="urediUposlenik.pozicijaID">{{x.naziv}}</option>
+            </select>
+          </div>
+          <div class="col-md-6">
+            <label  class="form-label">{{'lozinka'|translate}}:</label>
+            <input type="text" class="form-control" name="lozinka" [(ngModel)]="urediUposlenik.lozinka">
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">{{'zatvori'|translate}}</button>
+        <button type="button" class="btn btn-primary" data-bs-dismiss="modal" (click)="sacuvaj()">{{'potvrdi'|translate}}</button>
+      </div>
+    </div>
+  </div>
+</div>

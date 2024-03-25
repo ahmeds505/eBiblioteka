@@ -1,0 +1,47 @@
+
+<div *ngIf="urediKorisnik.prikazi == true" class="modal fade show" id="exampleModalLive"
+     tabindex="-1" aria-labelledby="exampleModalLiveLabel" aria-modal="true"
+     role="dialog" style="display: block;">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <!-- <h5 class="modal-title" id="exampleModalLabel">Uređivanje informacija </h5> -->
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" (click)="close()"></button>
+      </div>
+      <div class="modal-body">
+        <div class="row g-2">
+
+          <div class="col-md-6">
+            <label  class="form-label">{{'ime'|translate}}:</label>
+            <input type="text" class="form-control" name="ime" required [(ngModel)]="urediKorisnik.ime">
+          </div>
+          <div class="col-md-6">
+            <label  class="form-label">{{'prezime'|translate}}:</label>
+            <input type="text" class="form-control" name="prezime" required [(ngModel)]="urediKorisnik.prezime">
+          </div>
+          <div class="col-md-6">
+            <label  class="form-label">{{'email'|translate}}:</label>
+            <input type="email" class="form-control" name="email" [(ngModel)]="urediKorisnik.email">
+          </div>
+          <div class="col-md-6">
+            <label  class="form-label">{{'adresa'|translate}}:</label>
+            <input type="text" class="form-control" name="adresa" [(ngModel)]="urediKorisnik.adresa">
+          </div>
+          <div class="col-md-6">
+            <label  class="form-label">{{'grad'|translate}}:</label>
+            <input type="text" class="form-control" name="grad" [(ngModel)]="urediKorisnik.grad">
+          </div>
+          <div class="col-md-6">
+            <label  class="form-label">{{'postanski broj'|translate}}:</label>
+            <input type="number" class="form-control" name="pbroj" [(ngModel)]="urediKorisnik.postanskiBroj">
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal" (click)="close()">{{'zatvori'|translate}}</button>
+        <button type="button" class="btn btn-primary" data-bs-dismiss="modal" (click)="sacuvaj()">{{'potvrdi'|translate}}</button>
+      </div>
+    </div>
+  </div>
+</div>
+

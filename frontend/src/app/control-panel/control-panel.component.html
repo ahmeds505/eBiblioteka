@@ -1,0 +1,51 @@
+<div class="fleks">
+
+<div class="icon-menu mt-5">
+  <p>{{'upravljacka ploca'|translate}}</p>
+<a data-bs-toggle="offcanvas" href="#offcanvasExample" aria-controls="offcanvasExample">
+<i class="bi bi-border-width"></i>
+</a>
+</div>
+<div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
+  <div class="offcanvas-header">
+      <h5 class="offcanvas-title" id="offcanvasExampleLabel">{{'upravljacka ploca'|translate}}</h5>
+    <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+  </div>
+<div class="linkovi">
+      <a data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+       {{'knjige'|translate}} <i class="bi bi-caret-down-fill"></i>
+      </a>
+    <div class="collapse" id="collapseExample">
+      <div class="card card-body">
+        <a routerLink="dodaj-knjigu">{{'dodaj knjigu'|translate}}</a>
+        <mat-divider></mat-divider>
+        <a routerLink="sve-knjige">{{'sve knjige'|translate}}</a>
+        <mat-divider></mat-divider>
+        <a routerLink="sve-iznajmljene-knjige">{{'iznajmljene knjige'|translate}}</a>
+      </div>
+    </div>
+      <!--<mat-divider></mat-divider>
+      <a href="#">Trgovina</a>-->
+      <mat-divider></mat-divider>
+      <a routerLink="korisnici">{{'korisnici'|translate}}</a>
+      <mat-divider></mat-divider>
+      <a routerLink="radnici">{{'uposlenici'|translate}}</a>
+      <mat-divider></mat-divider>
+      <a routerLink="izvjestaj">{{'izvjestaj'|translate}}</a>
+
+</div>
+
+
+</div>
+  <div class="container-sm text-center mt-5">
+    <router-outlet></router-outlet>
+  </div>
+
+
+</div>
+
+
+
+
+
+

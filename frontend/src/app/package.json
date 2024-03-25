@@ -1,0 +1,10 @@
+{
+  "/api/*": {
+    "target": "http://https://localhost:44304",
+    "secure": false,
+    "logLevel": "debug"
+  },
+  "dependencies": {
+    "feather-icons": "^4.29.0"
+  }
+}

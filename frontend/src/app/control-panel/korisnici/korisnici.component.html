@@ -1,0 +1,53 @@
+<div class ="mb-3">
+  <h1>{{'korisnici'|translate}}</h1>
+</div>
+<div class="row align-items-start">
+<div class="col-md-3 mb-3">
+  <div class="col">
+  <button class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#exampleModal" (click)="dodajNovog()">{{'dodaj korisnika'|translate}}</button>
+  </div>
+</div>
+
+<div class="col-md-3 mb-3">
+  <div class="col">
+
+  <input class="form-control" placeholder="{{'pretrazivanje'|translate}}:" [(ngModel)]="search">
+  </div>
+
+</div>
+
+</div>
+<div class ="mt-5">
+  <table class="table">
+    <thead>
+    <tr>
+      <th>ID</th>
+      <th>{{'ime'|translate}}</th>
+      <th>{{'prezime'|translate}}</th>
+      <th>{{'korisnicko ime'|translate}}</th>
+      <th>{{'email'|translate}}</th>
+      <th>{{'datum placanja clanarine'|translate}}</th>
+      <th>{{'datum isteka clanarine'|translate}}</th>
+      <th>{{'akcija'|translate}}</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let x of pretragaKorisnika()">
+      <td>{{x.id}}</td>
+      <td>{{x.ime}}</td>
+      <td>{{x.prezime}}</td>
+      <td>{{x.korisnickoIme}}</td>
+      <td>{{x.email}}</td>
+      <td>{{x.datumPlacanjaClanarine}}</td>
+      <td>{{x.datumIstekaClanarine}}</td>
+      <td>
+        <button class="btn btn-primary" (click)="odaberiKorisnika(x)">{{'uredi'|translate}}</button>
+        <button class="btn btn-danger" (click)="izbrisi(x)">{{'izbrisi'|translate}}</button>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+<app-korisnici-edit [urediKorisnik]="odabraniKorisnik"></app-korisnici-edit>
+
+

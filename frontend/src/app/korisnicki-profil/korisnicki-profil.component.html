@@ -1,0 +1,39 @@
+<h1>{{'korisnicki profil'|translate}}</h1>
+
+
+<div class="fleks">
+  <div class="icon-menu mt-5">
+    <a data-bs-toggle="offcanvas" href="#offcanvasExample" aria-controls="offcanvasExample">
+      <i class="bi bi-border-width"></i>
+    </a>
+  </div>
+  <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
+    <div class="offcanvas-header">
+      <h5 class="offcanvas-title" id="offcanvasExampleLabel">{{'korisnicki profil'|translate}}</h5>
+      <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+    <div class="linkovi">
+
+      <mat-divider></mat-divider>
+      <a routerLink="osnovne-informacije">{{'osnovne informacije'|translate}}</a>
+      <div *ngIf="loginInfo.isKorisnik">
+        <mat-divider></mat-divider>
+        <a routerLink="iznajmljene-knjige">{{'iznajmljene knjige'|translate}}</a>
+        <mat-divider></mat-divider>
+        <a routerLink="procitane-knjige">{{'procitane knjige'|translate}}</a>
+        <mat-divider></mat-divider>
+        <a routerLink="prikazi-listu-zeljenih-knjiga">{{'lista zeljenih knjiga'|translate}}</a>
+        <mat-divider></mat-divider>
+        <a routerLink="upravljanje-clanarinom">{{'upravljanje clanarinom'|translate}}</a>
+      </div>
+
+
+
+    </div>
+
+
+  </div>
+  <div class="container-sm text-center mt-5">
+    <router-outlet></router-outlet>
+  </div>
+</div>

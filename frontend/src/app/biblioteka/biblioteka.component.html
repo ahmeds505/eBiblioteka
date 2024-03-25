@@ -1,0 +1,47 @@
+<div *ngIf="alert" class="alert alert-danger" role="alert">
+  {{response}}
+</div>
+<div *ngIf="info" class="alert alert-success" role="alert">
+  {{response}}
+</div>
+<table class="table">
+  <thead>
+  <tr>
+    <th>{{'naslov'|translate}}</th>
+    <th>{{'ime pisca'|translate}}</th>
+    <th>{{'prezime pisca'|translate}}</th>
+    <th>{{'odjeljenje'|translate}}</th>
+    <th>{{'akcija'|translate}}</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let x of bibliotekaPodaci">
+    <td>{{x.naslov}}</td>
+    <td>{{x.imePisca}}</td>
+    <td>{{x.prezimePisca}}</td>
+    <td>{{x.odjeljenje.naziv}}</td>
+    <td>
+      <button class="btn btn-primary" data-bs-target="#exampleModal" data-bs-toggle="modal" (click)="iznajmi(x)">{{'iznajmi'|translate}}</button>
+    </td>
+  </tr>
+  </tbody>
+</table>
+
+<!-- Modal -->
+<div *ngIf="obavijest == true" class="modal fade show" id="exampleModalLive"
+     tabindex="-1" aria-labelledby="exampleModalLiveLabel" aria-modal="true"
+     role="dialog" style="display: block;">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">{{'obavijest'|translate}}</h5>
+      </div>
+      <div class="modal-body">
+        {{response|translate}}
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal" (click)="zatvoriModal()">{{'zatvori'|translate}}</button>
+      </div>
+    </div>
+  </div>
+</div>

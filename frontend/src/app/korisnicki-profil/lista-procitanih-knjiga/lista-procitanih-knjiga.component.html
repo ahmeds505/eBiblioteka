@@ -1,0 +1,31 @@
+<div class="search">
+  <form class="row g-2 mb-3" >
+    <div class="col-md-6 mb-3">
+      <h2 style="margin-bottom: 50px">{{'procitane knjige'|translate}}</h2>
+      <input type="text" class="form-control" placeholder="{{'pretrazivanje'|translate}}" [(ngModel)]="searchKnjige"
+             [ngModelOptions]="{standalone:true}">
+    </div>
+
+  </form>
+</div>
+
+
+<table class="table">
+  <thead>
+  <tr>
+    <th>ID</th>
+    <th>{{'naslov'|translate}}</th>
+    <th>{{'ime pisca'|translate}}</th>
+
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let x of filterKnjige()">
+    <td>{{x.knjiga.id}}</td>
+    <td>{{x.knjiga.naslov}}</td>
+    <td>{{x.knjiga.imePisca}} {{x.knjiga.prezimePisca}}</td>
+
+  </tr>
+  </tbody>
+
+</table>

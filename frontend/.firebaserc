@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "e-biblioteka-e0a3e": {
+      "hosting": {
+        "webapp": [
+          "e-biblioteka-e0a3e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "e-biblioteka-e0a3e"
+  }
+}

@@ -1,0 +1,20 @@
+<p>shopping-cart works!</p>
+<table class="table">
+  <thead>
+  <tr>
+    <th>ID</th>
+    <th>Naslov</th>
+
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let x of cartPodaci">
+    <td>{{x.id}}</td>
+    <td>{{x.knjiga.naslov}}</td>
+
+    <td>
+      <button class="btn btn-primary" data-bs-target="#exampleModal" data-bs-toggle="modal">Izbrisi</button>
+    </td>
+  </tr>
+  </tbody>
+</table>

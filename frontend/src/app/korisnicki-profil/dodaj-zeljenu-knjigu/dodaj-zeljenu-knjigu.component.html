@@ -1,0 +1,36 @@
+<form class="row g-2" #userForm="ngForm">
+    <div class="col-md-6">
+      <label  class="form-label">{{'naslov'|translate}}:</label>
+      <input type="text" class="form-control" name="naziv" required #naziv="ngModel"
+      [class.is-invalid]="naziv.invalid && naziv.touched"
+      [(ngModel)]="nazivKnjige" [ngModelOptions]="{standalone: true}">
+<small class="text-danger" [class.d-none]="naziv.valid || naziv.untouched">{{'obavezan unos'|translate}}!</small>
+</div>
+
+    <div class="col-md-6">
+      <label  class="form-label">{{'ime pisca'|translate}}:</label>
+      <input type="text" class="form-control" name="imepisca" required #imepisca="ngModel"
+      [class.is-invalid]="imepisca.invalid && imepisca.touched" 
+      [(ngModel)]="imePisca" [ngModelOptions]="{standalone: true}">
+<small class="text-danger" [class.d-none]="imepisca.valid || imepisca.untouched">{{'obavezan unos'|translate}}!</small>
+      
+    </div>
+
+    <div class="col-md-6">
+      <label class="form-label">{{'prezime pisca'|translate}}:</label>
+      <input type="text" class="form-control" name="prezimepisca" required #prezimepisca="ngModel"
+      [class.is-invalid]="prezimepisca.invalid && prezimepisca.touched" 
+      [(ngModel)]="prezimePisca" [ngModelOptions]="{standalone: true}">
+<small class="text-danger" [class.d-none]="prezimepisca.valid || prezimepisca.untouched">{{'obavezan unos'|translate}}!</small>
+
+    </div>
+    
+    <div >
+      <button class="btn-outline-primary btn-lg" (click)="dodajKnjigu()">{{'potvrdi'|translate}}</button>
+    </div>
+  
+  
+  
+  
+  </form>
+  

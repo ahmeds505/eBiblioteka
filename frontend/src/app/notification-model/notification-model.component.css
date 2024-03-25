@@ -1,0 +1,29 @@
+.panel p {
+  left: 50px;
+  color: white;
+  text-align: center;
+}
+button {
+  margin-right: 25px;
+}
+
+.panel {
+  background-color: cyan;
+  position: absolute;
+  z-index: 200;
+  align-items: center;
+  text-align: justify;
+  display: flex;
+  border-radius: 50px;
+  padding: 8px;
+  margin: 12px;
+  transition: top 1s;
+  left: 30%;
+  right: 30%;
+}
+.content{
+  display: flex;
+  flex-direction: column;
+  margin-left: 12px;
+  flex: 1;
+}

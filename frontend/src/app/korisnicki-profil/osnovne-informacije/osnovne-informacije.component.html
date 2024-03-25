@@ -1,0 +1,57 @@
+<h2 style="margin-bottom: 50px">{{'osnovne informacije'|translate}}</h2>
+<div>
+  <label>{{'ime'|translate}}:</label><br>
+  <input type="text"  [(ngModel)]="korisnikPodaci.ime" >
+</div>
+<div>
+  <label>{{'prezime'|translate}}:</label><br>
+  <input type="text"  [(ngModel)]="korisnikPodaci.prezime" >
+</div>
+<div>
+  <label >{{'email'|translate}}:</label><br>
+  <input type="text"  [(ngModel)]="korisnikPodaci.email" >
+</div>
+<div>
+  <label >{{'adresa'|translate}}:</label><br>
+  <input type="text"  [(ngModel)]="korisnikPodaci.adresa" >
+</div>
+<div>
+  <label >{{'grad'|translate}}:</label><br>
+  <input type="text"  [(ngModel)]="korisnikPodaci.grad" >
+</div>
+<div>
+  <label >{{'postanski broj'|translate}}:</label><br>
+  <input type="text"  [(ngModel)]="korisnikPodaci.postanskiBroj" >
+</div>
+<div>
+  <label >{{'korisnicko ime'|translate}}:</label><br>
+  <input type="text"  [(ngModel)]="korisnikPodaci.korisnickoIme" >
+</div>
+<div>
+  <label >{{'lozinka'|translate}}:</label><br>
+  <input type="text"  [(ngModel)]="korisnikPodaci.lozinka" >
+</div>
+<br>
+<div>
+  <label>{{'slika korisnika'|translate}}:</label>
+</div>
+<div class="d-flex justify-content-center">
+  <img style="height: 200px; display: block;"  src="{{korisnikPodaci.slika_korisnika}}">
+</div>
+<br>
+<div>
+  <label>{{'odaberi novu sliku'|translate}}:</label><br>
+  <input type="file" #inputElement accept="image/*" (change)="onChange($event)">
+</div>
+<br>
+
+<div class="d-flex justify-content-center">
+  <button type="button" class="btn-outline-primary btn mb-2" (click)="spremiPodatke()" >{{'potvrdi'|translate}}</button>
+</div>
+
+
+
+
+
+
+

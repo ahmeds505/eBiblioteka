@@ -1,0 +1,51 @@
+<h2 style="margin-bottom: 50px">{{'sve iznajmljene knjige'|translate}}</h2>
+
+<div *ngIf="info" class="alert alert-success" role="alert">
+  {{response}}
+</div>
+<table class="table">
+  <thead>
+  <tr>
+    <th>{{'naslov'|translate}}</th>
+    <th>{{'ime pisca'|translate}}</th>
+    <th>{{'prezime pisca'|translate}}</th>
+    <th>{{'ime clana'|translate}}</th>
+    <th>{{'prezime clana'|translate}}</th>
+    <th>{{'datum iznajmljivanja'|translate}}</th>
+    <th>{{'akcija'|translate}}</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let x of iznajmljene">
+    <td>{{x.knjiga.naslov}}</td>
+    <td>{{x.knjiga.imePisca}}</td>
+    <td>{{x.knjiga.prezimePisca}}</td>
+    <td>{{x.clan.ime}}</td>
+    <td>{{x.clan.prezime}}</td>
+    <td>{{getDatum(x.datumIznajmljivanja)}}</td>
+    <td>
+      <button class="btn btn-primary" data-bs-target="#exampleModal" data-bs-toggle="modal" (click)="vratiKnjigu(x)">{{'vrati'|translate}}</button>
+    </td>
+  </tr>
+  </tbody>
+</table>
+
+
+<!-- Modal -->
+<div *ngIf="obavijest == true" class="modal fade show" id="exampleModalLive"
+     tabindex="-1" aria-labelledby="exampleModalLiveLabel" aria-modal="true"
+     role="dialog" style="display: block;">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">{{'obavijest'|translate}}</h5>
+      </div>
+      <div class="modal-body">
+        {{'knjiga je uspjesno vracena'|translate}}
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal" (click)="zatvoriModal()">{{'zatvori'|translate}}</button>
+      </div>
+    </div>
+  </div>
+</div>

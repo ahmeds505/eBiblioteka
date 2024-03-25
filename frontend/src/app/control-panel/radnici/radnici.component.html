@@ -1,0 +1,99 @@
+<div class ="mb-3">
+<h1>{{'uposlenici'|translate}}</h1>
+</div>
+<div class="col-md-3 mb-3">
+  <button class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#exampleModal">{{'dodaj uposlenika'|translate}}</button>
+</div>
+<div class ="mt-5">
+  <table class="table">
+    <thead>
+    <tr>
+      <th>ID</th>
+      <th>{{'ime'|translate}}</th>
+      <th>{{'prezime'|translate}}</th>
+      <th>{{'korisnicko ime'|translate}}</th>
+      <th>{{'email'|translate}}</th>
+      <th>{{'odjeljenje'|translate}}</th>
+      <th>{{'radno mjesto'|translate}}</th>
+      <th>{{'akcija'|translate}}</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let x of this.radniciPodaci">
+      <td>{{x.id}}</td>
+      <td>{{x.ime}}</td>
+      <td>{{x.prezime}}</td>
+      <td>{{x.korisnickoIme}}</td>
+      <td>{{x.email}}</td>
+      <td>{{x.odjeljenje.naziv}}</td>
+      <td>{{x.pozicija.naziv}}</td>
+      <td>
+        <button class="btn btn-primary" data-bs-target="#exampleModal2" data-bs-toggle="modal" (click)="odaberiUposlenika(x)">{{'uredi'|translate}}</button>
+        <button class="btn btn-danger" (click)="izbrisi(x)">{{'izbrisi'|translate}}</button>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="row g-2">
+        <div class="col-md-6">
+          <label  class="form-label">{{'ime'|translate}}:</label>
+          <input type="text" class="form-control" name="ime" required [(ngModel)]="txtIme">
+        </div>
+        <div class="col-md-6">
+          <label  class="form-label">{{'prezime'|translate}}:</label>
+          <input type="text" class="form-control" name="prezime" required [(ngModel)]="txtPrezime">
+        </div>
+          <div class="col-md-6">
+            <label  class="form-label">{{'email'|translate}}:</label>
+            <input type="email" class="form-control" name="email" [(ngModel)]="txtEmail">
+          </div>
+          <div class="col-md-6">
+            <label  class="form-label">{{'adresa'|translate}}:</label>
+            <input type="text" class="form-control" name="adresa" [(ngModel)]="txtAdresa">
+          </div>
+          <div class="col-md-6">
+            <label  class="form-label">{{'grad'|translate}}:</label>
+            <input type="text" class="form-control" name="grad" [(ngModel)]="txtGrad">
+          </div>
+          <div class="col-md-6">
+            <label  class="form-label">{{'postanski broj'|translate}}:</label>
+            <input type="number" class="form-control" name="pbroj" [(ngModel)]="txtPbroj">
+          </div>
+          <div class="col-md-6 mt-2">
+            <label  class="form-label">{{'odjeljenje'|translate}}:</label>
+            <select class="form-select" (change)="selectChangeOdjeljenje($event)">
+              <option>{{'odaberite odjeljenje'|translate}}</option>
+              <option *ngFor="let x of odjeljenjaPodaci" [value]="x.id">{{x.naziv}}</option>
+            </select>
+          </div>
+          <div class="col-md-6 mt-2">
+            <label  class="form-label">{{'radno mjesto'|translate}}:</label>
+            <select class="form-select" (change)="selectChangePozicija($event)">
+              <option>{{'odaberite radno mjesto'|translate}}</option>
+              <option *ngFor="let x of radnoMjestoPodaci" [value]="x.id">{{x.naziv}}</option>
+            </select>
+          </div>
+          <div class="col-md-6">
+            <label  class="form-label">{{'lozinka'|translate}}:</label>
+            <input type="text" class="form-control" name="lozinka" [(ngModel)]="txtLozinka">
+          </div>
+      </div>
+        </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">{{'zatvori'|translate}}</button>
+        <button type="button" class="btn btn-primary" data-bs-dismiss="modal" (click)="sacuvaj()">{{'potvrdi'|translate}}</button>
+      </div>
+    </div>
+  </div>
+</div>
+<app-radnici-edit [urediUposlenik]="odabraniRadnik"></app-radnici-edit>

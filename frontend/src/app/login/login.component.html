@@ -1,0 +1,24 @@
+<div class="container-sm">
+
+  <div class="d-flex justify-content-center mb-5 mt-5">
+    <h1>{{'prijava'|translate}}</h1>
+  </div>
+  <form class="col-xs-2" #userForm="ngForm" align="center">
+    <div class="d-flex justify-content-center">
+      <div class="col-md-5">
+        <label class="form-label">{{'korisnicko ime'|translate}}:</label>
+        <input  type="text" class="form-control" value="test" name="korisnickoIme" [(ngModel)]="txtKorisnickoIme">
+
+        <label class="form-label mt-3">{{'lozinka'|translate}}:</label>
+        <input  type="password" class="form-control mb-3" value="test" name="lozinka" [(ngModel)]="txtLozinka">
+        <a routerLink="/registracija">{{'registracija'|translate}}</a>
+      </div>
+    </div>
+
+    <div class="d-flex justify-content-center mb-5 mt-5">
+     <button type="submit" (click)="Login()" class="btn btn-primary mt-3">{{'potvrdi'|translate}}</button>
+
+    </div>
+  </form>
+
+</div>

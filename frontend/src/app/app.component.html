@@ -1,0 +1,72 @@
+<app-notification-model></app-notification-model>
+<nav class="navbar navbar-expand-lg navbar-light" style="background-color: #396EB0">
+  <div class="container-fluid">
+    <a class="navbar-brand text-light" routerLink="/pocetna">e-Biblioteka</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active text-light" aria-current="page" routerLink="/pocetna">{{'pocetna'|translate}}</a>
+        </li>
+        <li class="nav-item">
+          <a *ngIf="provjeraKorisnik().isLogiran" class="nav-link text-light" routerLink="/trgovina">{{'trgovina'|translate}}</a>
+        </li>
+        <li class="nav-item">
+          <a *ngIf="provjeraKorisnik().isLogiran" class="nav-link text-light" routerLink="/biblioteka">{{'biblioteka'|translate}}</a>
+        </li>
+        <!--<li class="nav-item">
+          <a *ngIf="provjeraKorisnik().isLogiran" class="nav-link text-light"  routerLink="/korisnicki-profil" routerLinkActive="active">{{provjeraKorisnik().korisnickoIme}}</a>
+        </li>-->
+        <li class="nav-item" >
+          <a *ngIf="!provjeraKorisnik().isLogiran" class="nav-link text-light"  routerLink="/login" routerLinkActive="active">{{'prijavi se'|translate}}</a>
+        </li>
+        <li class="nav-item" >
+
+        </li>
+        <li class="nav-item" >
+          <a *ngIf="provjeraKorisnik().isLogiran" style="cursor: pointer;" class="nav-link text-light" (click)= odjava() routerLinkActive="active">{{'odjavi se'|translate}}</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+<a *ngIf="provjeraKorisnik().isLogiran" class="nav-link text-light" routerLink="/korisnicki-profil" routerLinkActive="active">{{provjeraKorisnik().korisnickoIme}}</a>
+  <i data-feather="circle"></i>
+  <a *ngIf="provjeraKorisnik().isAdministrator || provjeraKorisnik().isRadnik" class="nav-link text-light"  routerLink="/control-panel" routerLinkActive="active">{{'upravljacka ploca'|translate}}</a>
+
+  <!-- <div class="dropdown">
+    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Dropdown button
+    </button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+      <a class="dropdown-item" href="#">Action</a>
+      <a class="dropdown-item" href="#">Another action</a>
+      <a class="dropdown-item" href="#">Something else here</a>
+    </div>
+  </div> -->
+  <ul class="navbar-nav ml-auto mb-2 mt-2 mg-lg-0">
+    <li class="nav-item">
+      <select style="width: 150px;" class="form-select" (change)="changeLang($event)" name ="" id ="">
+        <option [selected]="lang==='bs'" value="bs" >Bosanski</option>
+        <option [selected]="lang==='en'" value="en" >English</option>
+
+      </select>
+    </li>
+  </ul>
+</nav>
+
+
+<script>
+
+  feather.replace();
+
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", function () {
+      // navigator.serviceWorker.register("/flutter_service_worker.js");
+      navigator.serviceWorker.register("/firebase-messaging-sw.js");
+    });
+  }
+</script>
+
+<router-outlet></router-outlet>

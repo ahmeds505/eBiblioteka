@@ -1,0 +1,73 @@
+<div class="container-sm margina">
+  <div class="d-flex justify-content-center mb-5">
+    <h1 style="margin-top: 150px; margin-bottom: 50px;">{{'dodaj knjigu'|translate}}</h1>
+  </div>
+  <form class="row g-2" #userForm="ngForm">
+    <div class="col-md-4">
+      <label  class="form-label">{{'naslov'|translate}}:</label>
+      <input type="text" class="form-control" name="naslov" required #naslov="ngModel"
+             [class.is-invalid]="naslov.invalid && naslov.touched"
+             [(ngModel)]="txtNaslov">
+      <small class="text-danger" [class.d-none]="naslov.valid || naslov.untouched">{{'obavezan unos'|translate}}!</small>
+    </div>
+    <div class="col-md-4">
+      <label  class="form-label">{{'ime pisca'|translate}}:</label>
+      <input type="text" class="form-control" name="ime" required #ime="ngModel"
+             [class.is-invalid]="ime.invalid && ime.touched"
+             [(ngModel)]="txtImePisca">
+      <small class="text-danger" [class.d-none]="ime.valid || ime.untouched">{{'obavezan unos'|translate}}!</small>
+    </div>
+    <div class="col-md-4">
+      <label class="form-label">{{'prezime pisca'|translate}}:</label>
+      <input type="text" class="form-control"  name="prezime" required #prezime="ngModel"
+             [class.is-invalid]="prezime.invalid && prezime.touched"
+             [(ngModel)]="txtPrezimePisca">
+      <small class="text-danger" [class.d-none]="prezime.valid || prezime.untouched">{{'obavezan unos'|translate}}!</small>
+    </div>
+    <div class="col-md-6">
+      <label  class="form-label">{{'izdavac'|translate}}:</label>
+      <input type="adress" class="form-control" name="grad" [(ngModel)]="txtIzdavac">
+    </div>
+    <div class="col-md-2">
+      <label for="inputZip" class="form-label">{{'godina izdanja'|translate}}:</label>
+      <input type="number" class="form-control"  name="pbroj" id="inputZip" [(ngModel)]="txtGodinaIzdanja">
+    </div>
+    <div class="col-md-4">
+      <label class="form-label">{{'stampa'|translate}}:</label>
+      <input type="text" class="form-control" required name="email" #email="ngModel"
+             [class.is-invalid]="email.invalid && email.touched"
+             [(ngModel)]="txtStampa">
+      <small class="text-danger" [class.d-none]="email.valid || email.untouched">{{'obavezan unos'|translate}}! </small>
+    </div>
+    <div class="col-md-3">
+      <label class="form-label">{{'sekcija'|translate}}:</label>
+      <select class="form-select" (change)="selectChangeSekcija($event)">
+        <option>{{'odaberite sekciju'|translate}}</option>
+        <option [value]="1">{{'trgovina'|translate}}</option>
+        <option [value]="2">{{'biblioteka'|translate}}</option>
+      </select>
+    </div>
+
+    <div class="col-md-3">
+      <label class="form-label">{{'odjeljenje'|translate}}:</label>
+      <select class="form-select" [(ngModel)]="txtOdjeljenje" (change)="selectChangeOdjeljenje($event)">
+        <option>{{'odaberite odjeljenje'|translate}}</option>
+        <option *ngFor="let x of OdjeljenjeAll" [value]="x.id">{{x.naziv}}</option>
+
+      </select>
+    </div>
+    <div class="col-md-2">
+      <label class="form-label">{{'kolicina'|translate}}:</label>
+      <input type="number" class="form-control" required name="kolicina" #kolicina="ngModel"
+             [class.is-invalid]="kolicina.invalid && kolicina.touched"
+             [(ngModel)]="txtKolicina">
+      <small class="text-danger" [class.d-none]="kolicina.valid || kolicina.untouched">{{'obavezan unos'|translate}}!</small>
+    </div>
+    <div class="col-md-2"><app-upload-form></app-upload-form></div>
+    <div class="col-md-12 mt-5">
+      <button type="submit" (click)="Potvrdi()" class="btn btn-primary">{{'potvrdi'|translate}}</button>
+    </div>
+
+  </form>
+</div>
+

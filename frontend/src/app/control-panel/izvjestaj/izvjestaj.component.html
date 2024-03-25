@@ -1,0 +1,27 @@
+<h1 style="margin-top: 150px; margin-bottom: 100px;">{{'generisanje izvjestaja'|translate}}</h1>
+
+<div class="container text-center">
+  <div class="row align-items-start">
+    <div class="col">
+      <mat-form-field appearance="fill">
+        <mat-date-range-input [rangePicker]="picker">
+          <input matInput matStartDate placeholder="Start date" [(ngModel)]="DatumOD"><br>
+          <input matEndDate placeholder="End date" [(ngModel)]="DatumDO">
+        </mat-date-range-input>
+        <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+        <mat-date-range-picker #picker></mat-date-range-picker>
+      </mat-form-field>
+    </div>
+    <div class="col">
+      <div class="align-items-center h-100">
+        <label class="form-label">{{'odjeljenje'|translate}}:</label>
+        <select class="form-select" [(ngModel)]="txtOdjeljenje" >
+          <option>{{'odaberite odjeljenje'|translate}}</option>
+          <option *ngFor="let x of OdjeljenjeAll" [value]="x.id">{{x.naziv}}</option>
+        </select>
+      </div>
+    </div>
+    <div class="col">
+      <button (click)="formatiraj()">{{'potvrdi'|translate}}</button>
+    </div>
+  </div>

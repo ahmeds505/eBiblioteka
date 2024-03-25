@@ -1,0 +1,955 @@
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\appsettings.json
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.exe
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.deps.json
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.runtimeconfig.json
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.runtimeconfig.dev.json
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.pdb
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.Views.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.Views.pdb
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.AssemblyInfoInputs.cache
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.AssemblyInfo.cs
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.RazorAssemblyInfo.cache
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.RazorAssemblyInfo.cs
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\staticwebassets\e-Biblioteka.StaticWebAssets.Manifest.cache
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\scopedcss\bundle\e-Biblioteka.styles.css
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.TagHelpers.input.cache
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.TagHelpers.output.cache
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.RazorCoreGenerate.cache
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.RazorTargetAssemblyInfo.cache
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.RazorTargetAssemblyInfo.cs
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.Views.pdb
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.csproj.CopyComplete
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\ref\e-Biblioteka.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.pdb
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.genruntimeconfig.cache
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Web.Cors.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Web.Http.Cors.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\AutentifikacijaTokens\Create.cshtml.g.cs
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\AutentifikacijaTokens\Delete.cshtml.g.cs
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\AutentifikacijaTokens\Details.cshtml.g.cs
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\AutentifikacijaTokens\Edit.cshtml.g.cs
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\AutentifikacijaTokens\Index.cshtml.g.cs
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Realm.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Remotion.Linq.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-x64\native\librealm-wrappers.so
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\osx-x64\native\librealm-wrappers.dylib
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x64\native\realm-wrappers.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x86\native\realm-wrappers.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.csproj.Fody.CopyLocal.cache
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\appsettings.json
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.exe
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.deps.json
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.runtimeconfig.json
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.runtimeconfig.dev.json
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.pdb
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.Views.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.Views.pdb
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Web.Cors.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Web.Http.Cors.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Realm.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Remotion.Linq.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-x64\native\librealm-wrappers.so
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\osx-x64\native\librealm-wrappers.dylib
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x64\native\realm-wrappers.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x86\native\realm-wrappers.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.csproj.AssemblyReference.cache
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.AssemblyInfoInputs.cache
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.AssemblyInfo.cs
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.RazorAssemblyInfo.cache
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.RazorAssemblyInfo.cs
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.csproj.Fody.CopyLocal.cache
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\scopedcss\bundle\e-Biblioteka.styles.css
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\staticwebassets\e-Biblioteka.StaticWebAssets.Manifest.cache
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.TagHelpers.input.cache
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.TagHelpers.output.cache
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.RazorCoreGenerate.cache
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\AutentifikacijaTokens\Create.cshtml.g.cs
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\AutentifikacijaTokens\Delete.cshtml.g.cs
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\AutentifikacijaTokens\Details.cshtml.g.cs
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\AutentifikacijaTokens\Edit.cshtml.g.cs
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\AutentifikacijaTokens\Index.cshtml.g.cs
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.RazorTargetAssemblyInfo.cache
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.RazorTargetAssemblyInfo.cs
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.Views.pdb
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.csproj.CopyComplete
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.pdb
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.genruntimeconfig.cache
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\ref\e-Biblioteka.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ref\e-Biblioteka.dll
+C:\Users\ahmed\Documents\RS1\webapp\api\e-Biblioteka\obj\Debug\net5.0\staticwebassets\e-Biblioteka.StaticWebAssets.xml
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.csproj.AssemblyReference.cache
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\appsettings.json
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.exe
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.deps.json
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.runtimeconfig.json
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.runtimeconfig.dev.json
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.pdb
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.Views.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.Views.pdb
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Web.Cors.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Web.Http.Cors.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Realm.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Remotion.Linq.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-x64\native\librealm-wrappers.so
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\osx-x64\native\librealm-wrappers.dylib
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x64\native\realm-wrappers.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x86\native\realm-wrappers.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.csproj.AssemblyReference.cache
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.AssemblyInfoInputs.cache
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.AssemblyInfo.cs
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.RazorAssemblyInfo.cache
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.RazorAssemblyInfo.cs
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.csproj.Fody.CopyLocal.cache
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\scopedcss\bundle\e-Biblioteka.styles.css
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\staticwebassets\e-Biblioteka.StaticWebAssets.Manifest.cache
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.TagHelpers.input.cache
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.TagHelpers.output.cache
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.RazorCoreGenerate.cache
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\AutentifikacijaTokens\Create.cshtml.g.cs
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\AutentifikacijaTokens\Delete.cshtml.g.cs
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\AutentifikacijaTokens\Details.cshtml.g.cs
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\AutentifikacijaTokens\Edit.cshtml.g.cs
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\AutentifikacijaTokens\Index.cshtml.g.cs
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.RazorTargetAssemblyInfo.cache
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.RazorTargetAssemblyInfo.cs
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.Views.pdb
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.csproj.CopyComplete
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\refint\e-Biblioteka.dll
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.pdb
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.genruntimeconfig.cache
+C:\Users\ahmed\Documents\webapp\api\e-Biblioteka\obj\Debug\net5.0\ref\e-Biblioteka.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\AspNetCore.Reporting.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\AspNetCore.ReportingServices.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\itext.barcodes.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\itext.forms.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\itext.io.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\itext.kernel.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\itext.layout.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\itext.pdfa.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\itext.sign.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\itext.styledxmlparser.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\itext.svg.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\itext.commons.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.ComponentModel.Composition.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.ComponentModel.Composition.Registration.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Data.Odbc.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Data.OleDb.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.DirectoryServices.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.IO.Ports.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Management.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Private.ServiceModel.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Reflection.Context.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.ServiceModel.Duplex.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.ServiceModel.Http.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.ServiceModel.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.ServiceModel.Security.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.ServiceModel.Syndication.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.ServiceProcess.ServiceController.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Threading.AccessControl.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\PagedList.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\refint\e-Biblioteka.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\staticwebassets\e-Biblioteka.StaticWebAssets.Pack.cache
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\staticwebassets\msbuild.e-Biblioteka.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\staticwebassets\msbuild.build.e-Biblioteka.props
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.e-Biblioteka.props
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.e-Biblioteka.props
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\MailKit.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Asad\Desktop\Materijali\Godina 3\Zimski semestar\RS1\Seminarski projekat\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\appsettings.Development.json
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\appsettings.json
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.exe
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.deps.json
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.runtimeconfig.json
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.runtimeconfig.dev.json
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.pdb
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.Views.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\e-Biblioteka.Views.pdb
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\AspNetCore.Reporting.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\AspNetCore.ReportingServices.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\FireSharp.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Humanizer.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\itext.barcodes.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\itext.forms.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\itext.io.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\itext.kernel.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\itext.layout.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\itext.pdfa.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\itext.sign.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\itext.styledxmlparser.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\itext.svg.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\itext.commons.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\MailKit.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Web.Cors.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Web.Http.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Web.Http.Cors.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Threading.Tasks.Extensions.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Threading.Tasks.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Net.Http.Extensions.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Net.Http.Primitives.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\MimeKit.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\PagedList.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Quartz.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Quartz.Extensions.DependencyInjection.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Quartz.Extensions.Hosting.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Realm.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Remotion.Linq.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.CodeDom.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.ComponentModel.Composition.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.ComponentModel.Composition.Registration.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Data.Odbc.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Data.OleDb.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.DirectoryServices.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.DirectoryServices.AccountManagement.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.IO.Ports.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Management.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Private.ServiceModel.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Reflection.Context.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.ServiceModel.Duplex.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.ServiceModel.Http.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.ServiceModel.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.ServiceModel.Security.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.ServiceModel.Syndication.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.ServiceProcess.ServiceController.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Threading.AccessControl.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-x64\native\librealm-wrappers.so
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\osx-x64\native\librealm-wrappers.dylib
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x64\native\realm-wrappers.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x86\native\realm-wrappers.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\rs1\webapp\api\e-Biblioteka\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.csproj.AssemblyReference.cache
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.AssemblyInfoInputs.cache
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.AssemblyInfo.cs
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.csproj.CoreCompileInputs.cache
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.MvcApplicationPartsAssemblyInfo.cs
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.MvcApplicationPartsAssemblyInfo.cache
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.RazorAssemblyInfo.cache
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.RazorAssemblyInfo.cs
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.csproj.Fody.CopyLocal.cache
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\scopedcss\bundle\e-Biblioteka.styles.css
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\staticwebassets\e-Biblioteka.StaticWebAssets.Manifest.cache
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\staticwebassets\e-Biblioteka.StaticWebAssets.Pack.cache
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\staticwebassets\msbuild.e-Biblioteka.Microsoft.AspNetCore.StaticWebAssets.props
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\staticwebassets\msbuild.build.e-Biblioteka.props
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.e-Biblioteka.props
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.e-Biblioteka.props
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.TagHelpers.input.cache
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.TagHelpers.output.cache
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.RazorCoreGenerate.cache
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\AutentifikacijaTokens\Create.cshtml.g.cs
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\AutentifikacijaTokens\Delete.cshtml.g.cs
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\AutentifikacijaTokens\Details.cshtml.g.cs
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\AutentifikacijaTokens\Edit.cshtml.g.cs
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\AutentifikacijaTokens\Index.cshtml.g.cs
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.RazorTargetAssemblyInfo.cache
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.RazorTargetAssemblyInfo.cs
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.Views.pdb
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.csproj.CopyComplete
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.dll
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\refint\e-Biblioteka.dll
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.pdb
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.genruntimeconfig.cache
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\ref\e-Biblioteka.dll
+C:\rs1\webapp\api\e-Biblioteka\obj\Debug\net5.0\e-Biblioteka.sourcelink.json

@@ -1,2 +1,3 @@
 # eBiblioteka
-Seminarski iz predmeta Razvoj Softvera I, pod nazivom e-Biblioteka, kojeg sam radio sa kolegom sa fakulteta.
+School project with faculty colleague. 
+Application for book selling and rental, with admin and user side.  
